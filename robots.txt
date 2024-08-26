@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phorises.github.io/sitemap.html.gz
+Sitemap: https://phorises.github.io/app/sitemap.html.gz
+Sitemap: https://phorises.github.io/assets/sitemap.html.gz
+Sitemap: https://phorises.github.io/css/sitemap.html.gz
+Sitemap: https://phorises.github.io/includes/sitemap.html.gz
+Sitemap: https://phorises.github.io/item/sitemap.html.gz
+Sitemap: https://phorises.github.io/src/sitemap.html.gz
